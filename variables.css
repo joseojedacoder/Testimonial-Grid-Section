@@ -1,0 +1,8 @@
+:root{
+    --bg-page: hsl(210, 46%, 95%);
+    --bg-violet: hsl(263, 55%, 52%);
+    --bg-darkGrey: hsl(217, 19%, 35%);
+    --bg-darkBlue: hsl(219, 29%, 14%);
+    --bg-white: hsl(0, 0%, 100%);
+    --paragraph: hsl(0, 0%, 81%);
+}
